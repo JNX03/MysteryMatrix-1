@@ -13,10 +13,6 @@
 
 - Go to [webpage](b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co) to play
 
-
-
-- Chose you color (Dark or white theme)
-
 ## Enable addons/mod 2.0
  
  - Soon!
