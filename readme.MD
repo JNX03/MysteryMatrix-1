@@ -11,7 +11,7 @@
 
 ### MysteryMatrix 1
 
-- Go to [webpage](b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co) to play
+- Go to [webpage](https://www.b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co) to play
 
 ## Enable addons/mod 2.0
  
