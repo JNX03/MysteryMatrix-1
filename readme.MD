@@ -19,5 +19,5 @@
 
 ## Creator/Dev
 
-- [Jn03](https://github.com/JNDEV03) - Main Ui , Main Script , Story 0 , even  (0 , 2 , 4 , 6 , 8 , 10) , Puzzle (0 , 2 , 4 , 6 , 8 , 10) | Dev&Owner
+- [Jn03](https://github.com/JNDEV03) - Main Ui , Main Script , Story 0 , even  (0 , 1 , 2 , 4 , 6 , 8 , 10) , Puzzle (0 , 2 , 4 , 6 , 8 , 10) | Dev&Owner
 - Khet - Story odd ( 1,3,5,7,9 ) , Puzzle odd ( 1,3,5,7,9 ) | Game&Dev
