@@ -2,7 +2,8 @@
 
 <p align="center">A̵͎͑̀͠n̴̩̭̾̉̕ ̴͕̅̉ṕ̷̬͝ṷ̵̋̇͘ẓ̸̝͛́ż̶̳͎̪l̴̛͉̼̩̇é̵͍̚ ̷̨͓̒̿̊g̶̻̈̋ą̸͖̜́̐̐m̷̟͌e̶͈̍͊̚ ̶͚͇͘b̶̦͇̺̎a̵̺̦̿̀s̵̛͈̜̈̀e̶͈͊͑̽ ̶̖̱͑̆̈ö̶̩́̈́́n̵̩̋̇ ̴̨̓ͅͅc̸͙̘̈̈́į̶̛̺̮̃̆c̷̼̆͐̏</p>
 <p align="center"
-<img src="https://cdn.discordapp.com/attachments/1013498613948764201/1092205098190516394/Screenshot_2023-04-03_045232.png"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/MysteryMatrix-1/main/banner.png"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/MysteryMatrix-1/main/banner.png"/> </a> 
 </p>
 
 
