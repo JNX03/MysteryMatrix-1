@@ -15,13 +15,14 @@
 - Go to [webpage](https://b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co/) or https://b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co to play 
 
 ````html
-Change log 1.0112! | 7/4/2023
+Change log 1.0112 - 1.0113! | 7/4/2023
 
-- Fix hacking bug (sql injected)
-- Fix Puzzle bug
-- Add more hint but you need to find it by you self
-- Anti Cheat upgrade 😊
-- Story puzzle 1 Remaked
+- Fix hacking bug (sql injected) [ 1.0112 ]
+- Fix Puzzle bug [ 1.0112 ]
+- Add more hint but you need to find it by you self [ 1.0112 ]
+- Anti Cheat upgrade 😊 [ 1.0112 ]
+- Story puzzle 1 Remaked [ 1.0112 ]
+- Puzzle 2 Wait page added [ 1.0113 ]
 
 ````
 
