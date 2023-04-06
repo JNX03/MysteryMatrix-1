@@ -12,7 +12,20 @@
 
 ### MysteryMatrix 1
 
-- Go to [webpage](https://b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co/) to play [Level 0 , 1 ] | 3/4/23
+- Go to [webpage](https://b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co/) or https://b4b53ce7-8003-4c14-9aaa-042d5ffd290d.id.repl.co to play 
+
+````html
+Change log 1.0112! | 7/4/2023
+
+- Fix hacking bug (sql injected)
+- Fix Puzzle bug
+- Add more hint but you need to find it by you self
+- Anti Cheat upgrade 😊
+- Story puzzle 1 Remaked
+
+````
+
+---
 
 ## Enable addons/mod
  
